@@ -57,7 +57,7 @@ code .
 
 O deploy deste portfólio é feito automaticamente utilizando o GitHub Pages e o GitHub Actions. A cada novo `commit` na branch `main`, o GitHub realiza o build e atualiza o site hospedado no endereço:
 
-📍 **https://josevitor2004.github.io/portfolio-jose-vitor/**
+📍 <a href="https://josevitor2004.github.io/portfolio-jose-vitor/" target="_blank">Portfólio José Vitor</a>
 
 ## 📫 Contato
 
