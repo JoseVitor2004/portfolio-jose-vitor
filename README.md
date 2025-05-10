@@ -59,6 +59,14 @@ O deploy deste portfólio é feito automaticamente utilizando o GitHub Pages e o
 
 📍 <a href="https://josevitor2004.github.io/portfolio-jose-vitor/" target="_blank">Portfólio José Vitor</a>
 
+Para mais informações, veja também:
+
+- 📘 Guia de Uso [USER_GUIDE.md](https://github.com/JoseVitor2004/portfolio-jose-vitor/blob/main/USER_GUIDE.md)
+
+- 🛠️ Documentação Técnica [TECH_DOC.md](https://github.com/JoseVitor2004/portfolio-jose-vitor/blob/main/TECH_DOC.md)
+
+- 📝 Changelog [CHANGELOG.md](https://github.com/JoseVitor2004/portfolio-jose-vitor/blob/main/CHANGELOG.md)
+
 ## 📫 Contato
 
 Caso queira entrar em contato comigo:
